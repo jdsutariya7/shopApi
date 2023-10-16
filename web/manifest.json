@@ -1,6 +1,6 @@
 {
-    "name": "shopapiapp",
-    "short_name": "shopapiapp",
+    "name": "my_admin_pannel_app",
+    "short_name": "my_admin_pannel_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
